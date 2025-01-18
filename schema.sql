@@ -1,3 +1,4 @@
+CREATE DATABASE react_ecommerce_db;
 USE react_ecommerce_db;
 
 -- Create the users table
